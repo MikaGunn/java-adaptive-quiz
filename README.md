@@ -57,7 +57,7 @@ Question 2: correct -> +2 points -> next question worth 3
 Question 3: wrong   -> +0 points -> next question worth 1
 ```
 
-## Question-Set File Format
+## Question Set File Format
 
 A question set file uses a simple line based format:
 
