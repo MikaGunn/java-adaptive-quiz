@@ -96,7 +96,7 @@ javac -version
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/java-adaptive-quiz.git
+git clone https://github.com/MikaGunn/java-adaptive-quiz.git
 cd java-adaptive-quiz
 ```
 
