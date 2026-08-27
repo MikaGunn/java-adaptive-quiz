@@ -31,8 +31,6 @@ java-adaptive-quiz/
 ├── data/
 │   ├── months.txt
 │   └── weekdays.txt
-├── docs/
-│   └── PROJECT_NOTES.md
 ├── .gitignore
 └── README.md
 ```
