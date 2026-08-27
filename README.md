@@ -1,6 +1,6 @@
 # Java Adaptive Quiz
 
-A console-based Java quiz application with **progressive scoring**, **two-player gameplay**, and **file-based question sets**.
+A console based Java quiz application with **progressive scoring**, **two-player gameplay**, and **file-based question sets**.
 
 The first question is worth 1 point. If a player answers correctly, the next question becomes worth one additional point. If the player answers incorrectly, the next question resets to 1 point.
 
