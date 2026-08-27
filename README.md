@@ -1,12 +1,12 @@
 # Java Adaptive Quiz
 
-A console based Java quiz application with **progressive scoring**, **two-player gameplay**, and **file-based question sets**.
+A console based Java quiz application with **progressive scoring**, **two player gameplay**, and **file based question sets**.
 
 The first question is worth 1 point. If a player answers correctly, the next question becomes worth one additional point. If the player answers incorrectly, the next question resets to 1 point.
 
 ## Features
 
-- Two-player console quiz
+- Two player console quiz
 - Progressive / streak-based scoring
 - Question sets loaded from text files
 - Create and save new question sets from the console
@@ -59,7 +59,7 @@ Question 3: wrong   -> +0 points -> next question worth 1
 
 ## Question-Set File Format
 
-A question-set file uses a simple line-based format:
+A question set file uses a simple line based format:
 
 ```text
 <number of questions>
@@ -158,7 +158,7 @@ Next question value: 2
 
 ## Background
 
-This repository is a cleaned and refactored GitHub version of a university mini-project originally developed as a short-answer quiz program. The core project requirement was to accept typed answers and implement adaptive scoring where correct answers increase the value of the next question and incorrect answers reset that value to one point.
+This repository is a cleaned and refactored GitHub version of a university mini project originally developed as a short answer quiz program. The core project requirement was to accept typed answers and implement adaptive scoring where correct answers increase the value of the next question and incorrect answers reset that value to one point.
 
 ## Possible Future Improvements
 
@@ -168,7 +168,7 @@ This repository is a cleaned and refactored GitHub version of a university mini-
 - Timer for each question
 - Persistent high scores
 - Unit tests with JUnit
-- GUI or web-based interface
+- GUI or web based interface
 
 ## Repository Topics
 
