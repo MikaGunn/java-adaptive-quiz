@@ -173,7 +173,3 @@ This repository is a cleaned and refactored GitHub version of a university mini 
 Suggested GitHub topics:
 
 `java` `quiz-game` `console-application` `file-io` `cli` `beginner-java` `java-project`
-
-## License
-
-No license is included by default. Add a license only if you want to specify how other people may reuse your code.
