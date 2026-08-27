@@ -10,9 +10,9 @@ The first question is worth 1 point. If a player answers correctly, the next que
 - Progressive / streak based scoring
 - Question sets loaded from text files
 - Create and save new question sets from the console
-- Built-in sample question sets
+- Built in sample question sets
 - Input validation for question counts and yes/no responses
-- Case-insensitive answer checking
+- Case insensitive answer checking
 - Final score summary and winner/draw detection
 - Uses Java file I/O, arrays, loops, methods, records, and exception handling
 
