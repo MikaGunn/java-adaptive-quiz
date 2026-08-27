@@ -7,7 +7,7 @@ The first question is worth 1 point. If a player answers correctly, the next que
 ## Features
 
 - Two player console quiz
-- Progressive / streak-based scoring
+- Progressive / streak based scoring
 - Question sets loaded from text files
 - Create and save new question sets from the console
 - Built-in sample question sets
