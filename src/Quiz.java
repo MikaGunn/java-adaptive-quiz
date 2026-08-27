@@ -17,7 +17,7 @@ import java.util.Scanner;
  *   increases the value of the next question by 1.
  * - An incorrect answer adds no points and resets the next question value to 1.
  *
- * Question-set file format:
+ * Question set file format:
  * line 1: number of questions
  * then, for every question:
  *   question text
@@ -143,7 +143,7 @@ public class Quiz {
 
     private static Path askForQuestionSet() {
         System.out.print(
-                "Enter the question-set file to use " +
+                "Enter the question set file to use " +
                 "(example: data/months.txt or data/weekdays.txt): "
         );
         return Paths.get(SCANNER.nextLine().trim());
